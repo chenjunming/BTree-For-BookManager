@@ -1,0 +1,75 @@
+﻿  SqQueue.cpp
+  LinkList.cpp
+  CSTree.cpp
+  BTree.cpp
+  BookManagerSrc.cpp
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(62): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(130): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(144): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(169): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(183): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(186): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(190): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(211): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(232): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(249): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(261): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(279): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(284): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(291): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(295): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(303): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(308): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(314): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(318): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(327): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(345): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(352): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(357): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(364): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(381): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(418): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(422): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(435): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(446): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(458): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(478): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(482): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\bookmanagersrc.cpp(499): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  正在生成代码...
+c:\users\cjm\documents\visual studio 2015\projects\bookmanagerv\bookmanagerv\btree.cpp(15): warning C4715: “compareTo”: 不是所有的控件路径都返回值
+  BookManagerv.vcxproj -> C:\Users\cjm\Documents\Visual Studio 2015\Projects\BookManagerv\x64\Debug\BookManager_v1.2.exe
+  BookManagerv.vcxproj -> C:\Users\cjm\Documents\Visual Studio 2015\Projects\BookManagerv\x64\Debug\BookManager_v1.2.pdb (Full PDB)
